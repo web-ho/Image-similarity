@@ -17,14 +17,14 @@ triplet.ipynb
 ```
 
 ### To learn more about this methods -
-#### Siamese networks-
+#### Siamese networks -
 - [https://en.wikipedia.org/wiki/Siamese_neural_network](https://en.wikipedia.org/wiki/Siamese_neural_network)
 - [https://jamesmccaffrey.wordpress.com/2022/03/17/yet-another-siamese-neural-network-example-using-pytorch/](https://jamesmccaffrey.wordpress.com/2022/03/17/yet-another-siamese-neural-network-example-using-pytorch/)
 - [https://github.com/pytorch/examples/tree/main/siamese_network](https://github.com/pytorch/examples/tree/main/siamese_network)
 - [https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 - [https://gowrishankar.info/blog/introduction-to-contrastive-loss-similarity-metric-as-an-objective-function/](https://gowrishankar.info/blog/introduction-to-contrastive-loss-similarity-metric-as-an-objective-function/)
 - 
-#### Tripet network-
+#### Triplet networks -
 - [https://en.wikipedia.org/wiki/Triplet_loss](https://en.wikipedia.org/wiki/Triplet_loss)
 - [https://arxiv.org/abs/1412.6622](https://arxiv.org/abs/1412.6622)
 - [https://github.com/adambielski/siamese-triplet](https://github.com/adambielski/siamese-triplet)
