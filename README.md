@@ -5,16 +5,16 @@ It is quiet challenging to implement these methods, given the typr of data requi
 Siamese networks aim to learn embeddings by making use of a similarity metric. Contrastive loss (there are alternatives) is used as a loss function in siamese network, which minimizes the distance between embeddings of similar pairs and maximize the distance between embeddings of dissimilar pairs. Siamese networks are trained using pairs of images, where each pair consists of two images and a flag indicating whether they are similar or dissimilar.
 
 Notebook using siamese - 
-'''
+```
 contrastive.ipynb
-'''
+```
 
 Triplet networks also aim to learn embeddings, but they use a triplet loss function. The idea is to learn embeddings in such a way that the distance between an anchor image and a positive (similar) image is smaller than the distance between the anchor image and a negative (dissimilar) image. Triplet networks are trained using triplets of images, an anchor, a positive example (similar to the anchor), and a negative example (dissimilar to the anchor).
 
 Notebook using triplet - 
-'''
+```
 triplet.ipynb
-'''
+```
 
 ### To learn more about this methods -
 #### Siamese networks-
